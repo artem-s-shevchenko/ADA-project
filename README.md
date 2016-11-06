@@ -26,7 +26,7 @@ The dataset we’ll be dealing with will include products from entire world and 
 Different options are possible. The exact representation of result will be determined during implementation. For instance: we can make statistics of product ratings for all products considering one company, author, etc., in order to understand differences in popularity of products within each group. Moreover, we can categorize products (i.e. books, watches, etc.) and obtain information of products that are most rated and least rated in each category, make some ratings about companies within each category. We can investigate which category of Swiss products is the most and least rated. Results we get for Swiss products can be compared with products from other countries (for which we could also make statistics). 
 
 ##Timeplan:
-*November*: We will focus more on our homework, do theoretical preparation, do brainstorming about implementation. 
-*Early December*: We should be done with data gathering which we will need for extraction Swiss data from dataset and we will start implementation of such extraction.
-*Mid-December/Late December*: We should be done with extracting Swiss data from dataset and make vast majority of data processing.
-*January*: Make final improvement and complete project by end-January.
+* *November*: We will focus more on our homework, do theoretical preparation, do brainstorming about implementation. 
+* *Early December*: We should be done with data gathering which we will need for extraction Swiss data from dataset and we will start implementation of such extraction.
+* *Mid-December/Late December*: We should be done with extracting Swiss data from dataset and make vast majority of data processing.
+* *January*: Make final improvement and complete project by end-January.
