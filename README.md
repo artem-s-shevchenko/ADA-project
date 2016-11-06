@@ -6,7 +6,7 @@ The goal of this project would be to figure out the perception of Swiss products
 ##Data description: 
 The dataset mentioned above consists of entries that include information about products, their categories, reviews, etc. The example of such an entry is:
 ```
- Id:   15
+Id:   15
 ASIN: 1559362022
   title: Wake Up and Smell the Coffee
   group: Book
