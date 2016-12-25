@@ -62,6 +62,3 @@ with open(final_result_path, "w") as big_file:
                 else:
                     big_file.write(line[:-1] + ",\n")
     big_file.write("]\n")
-
-#*****To do*****
-#think about advanced filtering (lowercase)
