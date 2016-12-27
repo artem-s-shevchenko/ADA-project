@@ -1,16 +1,16 @@
 [
-  "ABB", //deleted - products are from other ABB companies
+  "ABB", 
   "Alcon",
-  "BALLY", //check once more
+  "BALLY", 
   "Breitling",
-  "Cacao Barry", //deleted-not swiss company
-  "Callebaut", //deleted - not swiss company
+  "Cacao Barry", 
+  "Callebaut", 
   "Chopard",
   "Emmi",
   "Geberit",
   "Geomag",
   "Hublot",
-  "IWC", //another company - international window corporation, droped those products
+  "IWC",
   "Fenjal",
   "Jaeger-LeCoultre",
   "Jowissa",
@@ -22,7 +22,7 @@
   "Maggi",
   "Mido",
   "Milka",
-  "Milo", //milo is name of the product product by Nestle and originaly from Australia..I didn't delete it, cause nestle is swiss company
+  "Milo", 
   "Mondaine",
   "Motorex",
   "Nescafe",
@@ -30,18 +30,17 @@
   "Nestle",
   "Nesquik",
   "Novartis",
-  "Omega", //another companies: omegalinks, omegalift, omegabrush, omega labs usa, omegabrandess, omega environmental technologies,
-    //omega, omega nutrition, one more omega, etc. - products deleted, 
-  "PB Swiss", //PB associates with Power Balance and Play Boy-those products deleted
-  "Phonak", //Sonova is a bigger company, worth looking for more products
+  "Omega",  
+  "PB Swiss", 
+  "Phonak", 
   "Rado",
   "Renata",
   "Ricola",
   "Roche",
   "Rolex",
-  "Sigg", //dropped 1 product https://www.amazon.com/Four-Seasons-33258-Filter-Drier/dp/B0017JKJU4
+  "Sigg", 
   "Sika",
-  "Swatch", //swatch buddies products deleted
+  "Swatch",
   "STMicroelectronics",
   "Syngenta",
   "TAG Heuer",
