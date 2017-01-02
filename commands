@@ -1,4 +1,4 @@
-Run pyspark
+pyspark
 
 sqlCon = SQLContext(sc)
 df = sqlCon.read.json("hdfs:///datasets/amazon-reviews/metadata.json")
