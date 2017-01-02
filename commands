@@ -1,0 +1,9 @@
+Run pyspark
+
+sqlCon = SQLContext(sc)
+df = sqlCon.read.json("hdfs:///datasets/amazon-reviews/metadata.json")
+
+df.where(df.brand.isin(["Nestle"])).count()
+
+filt =  df.where(df.brand.isin(["Credit Suisse"]))
+filt.show()
