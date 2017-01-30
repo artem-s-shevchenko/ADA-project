@@ -6,22 +6,23 @@ The goal of this project would be to figure out the perception of Swiss products
 ##Data description: 
 The dataset mentioned above consists of entries that include information about products, their categories, reviews, etc. The example of such an entry is:
 ```
-asin                                                                                                       B0009YJ238
-brand                                                                                                          Nestle
-categories                                                                                                          P
-description       Busy Bone, 7 OZ, Small/Medium Dog Treat, Twisted Bone Shape That Will Keep Your Dog Both Enterta...
-helpful                                                                                                        [0, 0]
-imUrl                                                           http://ecx.images-amazon.com/images/I/31ToYepJvwL.jpg
-overall                                                                                                             5
-price                                                                                                            3.49
-related                                                                                                           NaN
-reviewText        I adore my six-month-old dog, Midge.  She's everything i wanted in a pet.  She's also still a pu...
-reviewTime                                                                                                01 22, 2007
-reviewerID                                                                                             A3MTXMDJ7JQSFO
-reviewerName                                                                                              A. Ruminski
-salesRank                                                                                    {'Pet Supplies': 487454}
-summary                                                                                       Busy bone = happy owner
-title                                                                                          BusyBone MED Dog Treat
+asin                                                     B0009YJ238
+brand                                                        Nestle
+categories        [[Pet Supplies, Dogs, Treats, Cookies, Biscuit...
+description       Busy Bone, 7 OZ, Small/Medium Dog Treat, Twist...
+helpful                                                      [0, 0]
+imUrl             http://ecx.images-amazon.com/images/I/31ToYepJ...
+overall                                                           5
+price                                                          3.49
+related                                                         NaN
+reviewText        I adore my six-month-old dog, Midge.  She's ev...
+reviewTime                                              01 22, 2007
+reviewerID                                           A3MTXMDJ7JQSFO
+reviewerName                                            A. Ruminski
+salesRank                                  {'Pet Supplies': 487454}
+summary                                     Busy bone = happy owner
+title                                        BusyBone MED Dog Treat
+unixReviewTime                                           1169424000
 ```
 
 ##Feasibility and Risks: 
