@@ -6,17 +6,22 @@ The goal of this project would be to figure out the perception of Swiss products
 ##Data description: 
 The dataset mentioned above consists of entries that include information about products, their categories, reviews, etc. The example of such an entry is:
 ```
-Id:   15
-ASIN: 1559362022
-  title: Wake Up and Smell the Coffee
-  group: Book
-  salesrank: 518927
-  similar: 5  1559360968  1559361247  1559360828  1559361018  0743214552
-  categories: 1
-   |Books[283155]|Subjects[1000]|Literature & Fiction[17]|Drama[2159]|United States[2160]
-  reviews: total: 2  downloaded: 2  avg rating: 5
-    2002-5-13  cutomer: A2IGOA66Y6O8TQ  rating: 5  votes:   3  helpful:   2
-    2002-6-17  cutomer: A2OIN4AUH84KNE  rating: 5  votes:   2  helpful:   1
+asin                                                                                                       B0009YJ238
+brand                                                                                                          Nestle
+categories                                                                                                          P
+description       Busy Bone, 7 OZ, Small/Medium Dog Treat, Twisted Bone Shape That Will Keep Your Dog Both Enterta...
+helpful                                                                                                        [0, 0]
+imUrl                                                           http://ecx.images-amazon.com/images/I/31ToYepJvwL.jpg
+overall                                                                                                             5
+price                                                                                                            3.49
+related                                                                                                           NaN
+reviewText        I adore my six-month-old dog, Midge.  She's everything i wanted in a pet.  She's also still a pu...
+reviewTime                                                                                                01 22, 2007
+reviewerID                                                                                             A3MTXMDJ7JQSFO
+reviewerName                                                                                              A. Ruminski
+salesRank                                                                                    {'Pet Supplies': 487454}
+summary                                                                                       Busy bone = happy owner
+title                                                                                          BusyBone MED Dog Treat
 ```
 
 ##Feasibility and Risks: 
