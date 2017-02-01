@@ -4,20 +4,9 @@
 The goal of this project would be to figure out the perception of Swiss products throughout the world using the Amazon Review dataset. The original dataset includes information about products from all over the world and their reviews (probably, we still have to examine the original dataset). We are going to extract only Swiss products and make statistically valid conclusions based on user ratings.
 
 ##Data description: 
-The dataset mentioned above consists of entries that include information about products, their categories, reviews, etc. The example of such an entry is:
-```
-Id:   15
-ASIN: 1559362022
-  title: Wake Up and Smell the Coffee
-  group: Book
-  salesrank: 518927
-  similar: 5  1559360968  1559361247  1559360828  1559361018  0743214552
-  categories: 1
-   |Books[283155]|Subjects[1000]|Literature & Fiction[17]|Drama[2159]|United States[2160]
-  reviews: total: 2  downloaded: 2  avg rating: 5
-    2002-5-13  cutomer: A2IGOA66Y6O8TQ  rating: 5  votes:   3  helpful:   2
-    2002-6-17  cutomer: A2OIN4AUH84KNE  rating: 5  votes:   2  helpful:   1
-```
+The dataset mentioned above contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.
+
+This dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs). Detailed information: http://jmcauley.ucsd.edu/data/amazon/
 
 ##Feasibility and Risks: 
 The dataset we’ll be dealing with will include products from entire world and one of the challenges will be to come up with a strategy to filter/identify Swiss products from this data since there is no such information (about the country of origin of products). We therefore need to come up with a way to detect products of Swiss origin (Swiss brands, Swiss authors, etc.) Apart from this, it however seems feasible to extract ratings of these products and make statistical conclusions about them.
